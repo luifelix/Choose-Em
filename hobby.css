@@ -1,0 +1,38 @@
+body{
+	background: url(https://images.newscientist.com/wp-content/uploads/2019/07/02111520/gettyimages-157639696.jpg);
+	font-family: Roboto Slab;
+	padding-top: 15%;
+}
+
+.jumbotron{
+	background-color: rgba(105, 205, 255,0.75);
+}
+
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+h1{
+	font-weight: 900;
+	font-size: 5em;
+	text-align: center;
+}
+
+h2{
+	padding: 1em;
+	text-align: center;
+}
+
+
+h4{
+	text-align: center;
+	font-size: 100%;
+}
+
+#shadow{
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(255,255,255,0.4),
+				 0px 8px 13px rgba(255,255,255,0.1),
+				 0px 18px 23px rgba(255,255,255,0.1);
+}
